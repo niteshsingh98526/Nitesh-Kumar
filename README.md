@@ -1,4 +1,4 @@
-# Nitesh-Kumar
+# JavaScript
 
 <script >//Choose a random color
      const button = document.querySelector('button')
